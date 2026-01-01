@@ -101,6 +101,7 @@ This table shows the number of alerts of each alert type, together with the aler
 
 
 ## Conclusion of Docummentation
-In summary to avio
+In summary, this project walks through using OWASP ZAP for automated security testing against a sample web application. It documents a practical scanning workflow from spidering and active scanning to reviewing results and provides a detailed analysis of discovered vulnerabilities. For each finding, the report breaks down the root cause and outlines actionable mitigation steps. 
+The goal is to offer a clear, repeatable method for identifying common web security flaws and understanding how to address them effectively.
 
 
