@@ -2,7 +2,7 @@
 This documentation focus on how OWASP ZAP can be used to scan a web application to identify vulnerablity and related remediation that can be applied.
 
 ## 1. Objectives of Lab
-### i. To scan selected web application to identify vulnerabilities.
+### i. To scan sample web application to identify vulnerabilities.
 ### ii. To explore related remedies.
 
 
